@@ -20,6 +20,7 @@ ipa_file.embedded_mobile_provision
 
 
 # Error Type
+Error occur when create an instance of IpaFile.
 
 | Error | Description |
 |-------|:------------|
